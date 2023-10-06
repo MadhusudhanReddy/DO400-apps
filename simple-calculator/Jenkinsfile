@@ -12,7 +12,7 @@ steps {
 
 sendNotification('started', 'team@example.com')
 
-git branch: 'notifications',
+git branch: 'solutions',
 
 url: 'https://github.com/MadhusudhanReddy/DO400-apps'
 
